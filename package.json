@@ -1,0 +1,14 @@
+{
+  "name": "node-filesystem-task",
+  "version": "1.0.0",
+  "description": "This is a filesystem task",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ezeonwuka Victor",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
